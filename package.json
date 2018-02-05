@@ -1,0 +1,27 @@
+{
+  "name": "fastify-juicer",
+  "version": "1.0.0",
+  "description": "A Light Javascript Templete Engine. 一个支持宏的view插件",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhenruyan/fastify-juicer.git"
+  },
+  "keywords": [
+    "view","juicer","fastify"
+  ],
+  "author": "zhenruyan",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/zhenruyan/fastify-juicer/issues"
+  },
+  "homepage": "https://github.com/zhenruyan/fastify-juicer#readme",
+  "dependencies": {
+    "fastify": "^0.43.0",
+    "fastify-plugin": "^0.2.1",
+    "juicer": "^0.6.15"
+  }
+}
