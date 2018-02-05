@@ -11,7 +11,9 @@
     "url": "git+https://github.com/zhenruyan/fastify-juicer.git"
   },
   "keywords": [
-    "view","juicer","fastify"
+    "view",
+    "juicer",
+    "fastify"
   ],
   "author": "zhenruyan",
   "license": "WTFPL",

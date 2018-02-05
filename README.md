@@ -6,9 +6,7 @@
 ab -n 10000 -c 100 http://127.0.0.1:3000/
 ```
 
-point-of-view: 15.6k req/sec
-
-fastify-juicer: 18.8k req/sec
+fastify-juicer: 13k req/sec
 
 ##  Install
 
