@@ -1,6 +1,6 @@
 {
   "name": "fastify-juicer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Light Javascript Templete Engine. 一个支持宏的view插件",
   "main": "app.js",
   "scripts": {
